@@ -17,5 +17,8 @@
 - [卵とウィンナーの悶絶炒め](tamago-wiener-itame.md)
 - [ゆでたまご](yude-tamago.md)
 
+## パン・生地
+- [ピザ生地（バイタミックス）](pizza-dough.md)
+
 ## お菓子
 - [アーモンドクッキー](almond-cookie.md)
